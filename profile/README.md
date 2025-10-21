@@ -2,8 +2,8 @@
 ### Rapid Application Development for the Modern Web  
 
 [![Docker Sponsored Open Source](https://img.shields.io/badge/Docker-Sponsored%20Open%20Source-blue?logo=docker&logoColor=white)](https://www.docker.com/community/open-source/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-jaqstack.com-0A66C2?logo=google-chrome&logoColor=white)](https://jaqstack.com)
+[![License: Apache 2.0](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-jaqstack.com-0A66C2?logo=google-chrome&logoColor=white)](https://jaqstack.org)
 
 ---
 
@@ -51,7 +51,7 @@ Our commitment:
 
 | Resource | Link |
 |-----------|------|
-| 📘 Docs | [https://jaqstack.com/docs](https://jaqstack.com/docs) |
+| 📘 Docs | [https://jaqstack.com/docs](https://jaqstack.org/docs) |
 | 💬 Discussions | [github.com/jaqstack/jaqstack/discussions](https://github.com/jaqstack/jaqstack/discussions) |
 | 🧰 Examples | [https://jaqstack.com/examples](https://jaqstack.com/examples) |
 | 🐳 Docker Examples | [https://hub.docker.com/r/jaqstack/jaqstack-examples](https://hub.docker.com/r/jaqstack/jaqstack-examples) |
